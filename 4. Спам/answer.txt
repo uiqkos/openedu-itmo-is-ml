@@ -1,0 +1,17 @@
+1
+Precision:  0.967
+Recall:  0.963
+F1:  0.965
+
+2
+Precision:  0.968
+Recall:  0.965
+F1:  0.966
+
+3
+Precision:  0.953
+Recall:  0.947
+F1:  0.949
+
+0
+0.7

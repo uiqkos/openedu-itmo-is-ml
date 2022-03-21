@@ -1,0 +1,6 @@
+
+Depth: 6
+precision: 0.937
+recall: 0.921
+f1-score: 0.929
+data: 0, 0, 1, 1
